@@ -56,7 +56,7 @@ if (age === 30) {
 // Constants for shipping cost
 const standardShippingCost = 6;
 const discountedShippingCost = 4;
-
+ //kvjsfbvlkebvif
 // Function to calculate shipping cost
 function calculatingShippingCost(totalPriceParam) {
     let shippingCost;
